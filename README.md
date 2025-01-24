@@ -1,5 +1,5 @@
 ## Hi there 👋
-🌱 Currently preparing for certifications exams (PCAP). Experience working with Saas products and domain management, hope to be able to collaborate with the community.
+🌱 Currently preparing for certifications exams (PCAP). Experience working tech support (L1, L2, L3) for Saas products and domain management, SQL, python and some other. Hoping to learn and share with the community.
 <!--
 **authom-dotenv/authom-dotenv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
